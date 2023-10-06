@@ -1,0 +1,18 @@
+h1 {
+    color: blueviolet;
+    background-color: darkgray;
+}
+
+html {
+    background-color:gray;
+}
+
+table td{
+    border: 1px black solid;
+    border-collapse: collapse;
+    padding: 5px;
+}
+
+a:hover {
+    color: black;
+}
